@@ -1,0 +1,215 @@
+
+/*-------------------CSS FOR INDEX PG.---------------------------*/
+body{
+    font-family: "Josefin", sans-serif;
+}
+.container-body{
+    position: relative;
+    top:0;
+    left:0;
+    
+}
+
+a.active{
+    
+  
+}
+
+
+/* ---------------main section ----------------------------*/
+
+.container-section{
+    
+}
+
+.row2{
+  width:100%;
+  height:400px;
+}
+.row-pageTitle{
+    width:100%;
+    
+}
+
+.page-title{                     /*page title*/
+    width:80%;
+    font-size: 4em;
+    font-weight: 500;
+    color:#c5c5c5; /* grey color*/
+    margin: 0 auto;
+    text-align: center;
+}
+
+.row-subText{
+    width:100%;
+    
+}
+
+
+
+.col-subtext{               /*goes under main header*/
+    width:80%;
+    font-size: 2rem;
+    font-weight: 500;
+    color:#000;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/*-------------------------------special edits & colors---------------------*/
+
+.grey-emph{    /*for words that should be emphazised*/
+    color:#c5c5c5;
+}
+
+p.small-main{
+    color:#f99aaa;
+    width:50%;
+    font-size:1.5rem;
+}
+
+.round1{
+
+
+}
+
+/* acordian code from w3schools -------------------- */
+
+.accordion2 {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 20%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}  
+.active, accordion:hover {
+  background-color: #ccc; 
+}*
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+
+.text-monospace{
+    
+    
+}
+
+.fotoM{
+    width:100%;
+    height:400px;
+}
+
+.grp-foto{
+   width:100%;
+    height:400px;
+  
+}
+
+
+.Genres {
+    font-family: Arial;
+}
+
+.column {
+    padding-bottom:30px;
+}
+
+
+
+/*-------------------------------------MIDDLE SECTION ----------------------*/
+
+.img-fluid{
+  max-width: 100%;
+  height: auto;
+  
+}
+
+.row-img-center{
+position:absolute;
+    width:100%;
+    height:400px;
+
+}
+
+.img-width2{
+  
+  width:50%;
+  }
+
+.txt-width2{
+  
+  width:50%;
+  }
+
+
+
+.img-center{
+    display:block;
+    width:40%;
+    height: 200%;
+    position: left
+    
+}
+
+.side-column1{
+   width:100%;
+   float:left;
+}
+
+.side-column2{
+  
+  
+}
+
+.side-text{
+  display: inline-block;
+   width:70%;
+   margin:0 auto;
+   color:#f99aaa;
+  
+}
+
+.small-main{
+  position: absolute;
+  
+
+
+}
+
+/* rounding images musicians gallery */
+.column {
+    padding-bottom:30px;
+}
+
+
+
+/*
+* {
+    background: #000 !important;
+    color: #0f0 !important;
+    outline: solid #f00 1px !important;
+}*/
+
+/* test area */
+
+.row3{
+  width:100%;
+  height: 400px;
+}
+
+.bb {
+  position:relative;
+  display:inline-block;
+  height: 100%;
+  width:40%;
+  
+margin-left: 6%;
+}
